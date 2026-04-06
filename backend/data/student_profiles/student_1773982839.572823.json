@@ -1,0 +1,18 @@
+{
+  "student_id": "student_1773982839.572823",
+  "created_at": "2026-03-20T10:34:38.008789",
+  "topic_performance": {
+    "Neural Networks": 1.0
+  },
+  "quiz_history": [
+    {
+      "timestamp": "2026-03-20T10:34:38.008789",
+      "topic": "Neural Networks",
+      "score": 1.0,
+      "teaching_style": "simple"
+    }
+  ],
+  "interaction_count": 1,
+  "weak_topics": [],
+  "last_updated": "2026-03-20T10:34:38.008789"
+}

@@ -1,0 +1,18 @@
+{
+  "student_id": "student_1774704110.506268",
+  "created_at": "2026-03-28T18:57:28.000912",
+  "topic_performance": {
+    "Supervised Learning": 1.0
+  },
+  "quiz_history": [
+    {
+      "timestamp": "2026-03-28T18:57:28.000912",
+      "topic": "Supervised Learning",
+      "score": 1.0,
+      "teaching_style": "simple"
+    }
+  ],
+  "interaction_count": 1,
+  "weak_topics": [],
+  "last_updated": "2026-03-28T18:57:28.000912"
+}

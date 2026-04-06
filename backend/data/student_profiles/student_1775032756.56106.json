@@ -1,0 +1,27 @@
+{
+  "student_id": "student_1775032756.56106",
+  "created_at": "2026-04-01T14:16:04.051829",
+  "topic_performance": {
+    "Neural Networks": 1.0,
+    "Deep Learning": 0.4
+  },
+  "quiz_history": [
+    {
+      "timestamp": "2026-04-01T14:16:04.051829",
+      "topic": "Neural Networks",
+      "score": 1.0,
+      "teaching_style": "simple"
+    },
+    {
+      "timestamp": "2026-04-01T14:40:43.669462",
+      "topic": "Deep Learning",
+      "score": 0.4,
+      "teaching_style": "simple"
+    }
+  ],
+  "interaction_count": 2,
+  "weak_topics": [
+    "Deep Learning"
+  ],
+  "last_updated": "2026-04-01T14:40:43.669462"
+}
